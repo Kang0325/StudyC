@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("예제 14-excercise\n");
+	printf("예제 14-excercise1\n");
 	printf("\n");
 
 	int i;
